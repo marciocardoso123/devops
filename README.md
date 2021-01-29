@@ -7,3 +7,4 @@ github
 shell
 shell-script
 bash
+:smiley:
