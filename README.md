@@ -4,3 +4,6 @@ linux
 linux-mint
 git
 github
+shell
+shell-script
+bash
